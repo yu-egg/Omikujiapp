@@ -3,7 +3,7 @@
 # Omikujiapp
 
 ### topは下記画像です
-![omikujiapp.png]()
+![omikujiapp.png](https://github.com/yu-egg/Omikujiapp/blob/master/omikujiapp.png?raw=true)
 
 
 
