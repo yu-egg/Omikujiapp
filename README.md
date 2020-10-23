@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Omikujiapp
 
-Things you may want to cover:
+### topは下記画像です
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+## 🌐 App URL
 
-* Database creation
+### **https://omikuji2323-app.herokuapp.com/**
 
-* Database initialization
 
-* How to run the test suite
+## Overview
 
-* Services (job queues, cache servers, search engines, etc.)
+### 概要 
+簡単なおみくじアプリです。
 
-* Deployment instructions
+## Description
 
-* ...
+### 詳細の説明　
+中央の赤いボタンをクリックするだけ。
+## Usage
+
+### 用途
+今日の運勢を試してみてください！
+
