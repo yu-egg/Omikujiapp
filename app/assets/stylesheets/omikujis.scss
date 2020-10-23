@@ -11,4 +11,7 @@ body {
   background: #ef454a;
   border-radius: 50%;
   margin: 30px auto;
+  text-align: center;
+  line-height: 200px; //line-heightプロパティを使えば、文字の行間を調節することができます。justify-content: center;は使えない
+  
 }
